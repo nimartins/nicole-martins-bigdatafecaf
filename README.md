@@ -45,7 +45,7 @@ iot-temp-pipeline/
 ### 1. Clonar o Repositório
 
 ```bash
-git clone https://github.com/srloris/iot-temp-pipeline.git
+git clone https://github.com/nimartins/nicole-martins-bigdatafecaf.git
 cd iot-temp-pipeline
 ```
 
